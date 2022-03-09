@@ -1,7 +1,13 @@
-body{
+body h2{
     text-align: center;
+    color: navy;
+}
+body{
+    text-align: left;
     background-color: rgb(221, 220, 220);
     border: solid black .2rem;
+    border-style: double;
+
 }
 button:hover{
     color: red;

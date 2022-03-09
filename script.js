@@ -21,5 +21,5 @@ displayTask();
 
 function deleteTask(id){
     document.getElementById(id).remove();
-    task.splice(id,1);
+    task.splice();
 }
